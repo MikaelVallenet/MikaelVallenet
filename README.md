@@ -15,7 +15,7 @@
 <code><img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="30"></code>
-<code><img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" height="30"></code>
 <code><img src="http://content.arduino.cc/brand/arduino-color.svg" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" height="30"></code>
 <code><img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" height="30"></code>
