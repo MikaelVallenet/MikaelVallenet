@@ -6,3 +6,5 @@
 - 🌱 I am continually trying to improve my skills in data science and machine learning.
 - 👯 open source contributor
 - 📫 How to reach me: mikael.vallenetpro@gmail.com
+
+[![Mikatech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikatech)](https://github.com/Mikatech)
