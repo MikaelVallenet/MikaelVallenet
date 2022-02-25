@@ -5,6 +5,6 @@
 - 🤖 Head of AI at [@PoC](https://www.poc-innovation.fr/)
 - 🌱 I am continually trying to improve my skills in computer science & AI
 - 👯 open source contributor
-- 📫 How to reach me: mikael.vallenetpro@gmail.com
+- 📫 How to reach me: mikael.vallenet@poc-services.fr
 
 [![Mikatech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikatech&theme=tokyonight)](https://github.com/Mikatech)
