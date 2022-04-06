@@ -1,7 +1,7 @@
 # Hi guys 👋  I'm Mikaël Vallenet
 
 
-- 🔭 Currently a student at [@Epitech](https://www.epitech.eu/)
+- 🔭 Currently a student & teacher at [@Epitech](https://www.epitech.eu/)
 - 🤖 Head of AI at [@PoC](https://www.poc-innovation.fr/)
 - 🌱 I am continually trying to improve my skills in computer science & AI
 - 👯 open source contributor
