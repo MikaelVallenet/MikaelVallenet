@@ -1,6 +1,7 @@
 # Hi guys 👋  I'm Mikaël Vallenet
 
 
+- :bird: Software Dev. at [@Berty](https://berty.tech/)
 - 🔭 Currently a student & teacher at [@Epitech](https://www.epitech.eu/)
 - 💰 President at [@PoC Services](https://www.poc-innovation.fr/)
 - 🤖 Ex Head of AI at [@PoC](https://www.poc-innovation.fr/)
