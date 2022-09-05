@@ -9,4 +9,4 @@
 - 👯 open source contributor
 - 📫 How to reach me: mikael.vallenet@poc-services.fr
 
-[![Mikatech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikatech&theme=tokyonight)](https://github.com/Mikatech)
+[![Mikatech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikatech&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/Mikatech)
