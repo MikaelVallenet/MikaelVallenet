@@ -10,4 +10,4 @@
 - 👯 open source contributor
 - 📫 How to reach me: mikael.vallenetpro@gmail.com
 
-[![Mikatech's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelVallenet&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/MikaelVallenet)
+[![MikaelVallenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelVallenet&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/MikaelVallenet)
