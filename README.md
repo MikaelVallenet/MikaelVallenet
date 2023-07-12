@@ -9,5 +9,3 @@
 - 🌱 I am continually trying to improve my skills in computer science, AI & cyber-security
 - 👯 open source contributor
 - 📫 How to reach me: mikael.vallenetpro@gmail.com
-
-[![MikaelVallenet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelVallenet&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/MikaelVallenet)
