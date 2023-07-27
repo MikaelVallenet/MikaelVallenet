@@ -1,6 +1,6 @@
 # Hi guys 👋  I'm Mikaël Vallenet
 
-
+- 🇫🇷 22y old French Software Engineer [@Me](https://mikatech.me/) 
 - 🏴‍☠️ Software Dev. at [@Pathwar](https://github.com/pathwar/)
 - 🇦🇺 In Australia to study CS at [@Monash](https://www.monash.edu/)
 - 🔭 Currently a 3rd year student [@Epitech](https://www.epitech.eu/)
