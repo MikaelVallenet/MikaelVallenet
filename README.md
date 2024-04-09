@@ -8,4 +8,6 @@
 - 🤖 Ex Head of AI at [@PoC](https://www.poc-innovation.fr/)
 - 🌱 I am continually trying to improve my skills
 - 👯 open source contributor
+- 💻 Freelance Open To Work, feel free to contact me
+- ⚙️ Main technologies: Go, JS/TS, Python, PHP
 - 📫 How to reach me: mikael.vallenetpro@gmail.com
