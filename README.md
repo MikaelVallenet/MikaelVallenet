@@ -6,6 +6,6 @@
 - 🔭 Currently a 4th year student & Ex Teaching Assistant [@Epitech](https://www.epitech.eu/)
 - 💰 Ex President at [@PoC Services](https://www.poc-innovation.fr/)
 - 🤖 Ex Head of AI at [@PoC](https://www.poc-innovation.fr/)
-- 🌱 I am continually trying to improve my skills in computer science, AI & cyber-security
+- 🌱 I am continually trying to improve my skills
 - 👯 open source contributor
 - 📫 How to reach me: mikael.vallenetpro@gmail.com
