@@ -5,6 +5,6 @@
 - 👯 Open Source Contributor
 - 💻 Freelance Open To Work, feel free to contact me
 - ⚙️  Main technologies: Go 💙, JS/TS, Python, PHP
-- :ninja: Teritori Core Contrib.
+- :ninja: [Teritori](https://github.com/TERITORI) Core Contributor
 - 🧪 Area of expertise: Desktop, Web, Blockchain
 - 📫 How to reach me: mikael.vallenetpro@gmail.com
