@@ -6,5 +6,6 @@
 - 🧪 Areas of expertise: Desktop Software & Web & Blockchain
 - ⚙️  Main technologies: Go 💙, JS/TS, Python, PHP
 - ⛩️ [Teritori](https://github.com/TERITORI) Core Contributor
+- 💼 President at [AXIVA](https://github.com/axiva-it)
 - 📊 Ex. President at [@PoC Services](https://www.poc-innovation.fr/poc-services) & Head of AI at [@PoC Innovation](https://github.com/PoCInnovation)
 - 📫 How to reach me: mikael.vallenetpro@gmail.com
