@@ -1,4 +1,4 @@
-# Mikaël Vallenet 🥷
+# Mikaël Vallenet 🏔️
 
 - 🇫🇷 24y old French Fullstack Software Engineer [@Me](https://mikatech.me/) 
 - 👯 Open Source Contributor
