@@ -1,8 +1,7 @@
 # Mikaël Vallenet 🏔️
 
-- 🇫🇷 24y old French Fullstack Software Engineer [@Me](https://mikatech.me/) 
+- 🇫🇷 24y old French Fullstack Software Engineer [@Me](https://mikael.vallenet.me/) 
 - 👯 Open Source Contributor
-- 💻 Freelance Open To Work, feel free to contact me
 - 🧪 Areas of expertise: Desktop Software & Web & Blockchain
 - ⚙️  Main technologies: Go 💙, JS/TS, Python, PHP
 - ⛩️ [Teritori](https://github.com/TERITORI) Core Contributor & [Gno](https://github.com/gnolang/gno) Contributor
