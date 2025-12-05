@@ -1,6 +1,6 @@
 # Mikaël Vallenet ❄️
 
-- 🇫🇷 French Fullstack Software Engineer [@Me](https://mikael.vallenet.me/) 
+- 🇫🇷 French Fullstack Software Engineer (Backend expertise) [@Me](https://mikael.vallenet.me/) 
 - 👯 Open Source Contributor
 - 🧪 Areas of expertise: Desktop Software & Web & Blockchain
 - ⚙️  Main technologies: Go 💙, JS/TS, Python, PHP
