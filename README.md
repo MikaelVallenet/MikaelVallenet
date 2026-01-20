@@ -1,7 +1,7 @@
 # Mikaël Vallenet ❄️
 
-- 🇫🇷 French Fullstack Software Engineer (Backend expertise) [@Me](https://mikael.vallenet.me/) 
-- 👯 Open Source Contributor
+- 🇫🇷 French Fullstack Software Engineer (Backend expertise++) [@Me](https://mikael.vallenet.me/) 
+- 👯 Open Source Contributor (Gno, Pathwar, Zenao, ...)
 - 🧪 Areas of expertise: Desktop Software & Web & Blockchain
 - ⚙️  Main technologies: Go 💙, JS/TS, Python, PHP
 - ⛩️ [Teritori](https://github.com/TERITORI) Core Contributor & [Gno](https://github.com/gnolang/gno) Contributor
