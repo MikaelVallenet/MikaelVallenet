@@ -2,7 +2,6 @@
 
 - 🇫🇷 French Fullstack Software Engineer (Backend expertise++) [@Me](https://mikael.vallenet.me/) 
 - 👯 Open Source Contributor (Gno, Pathwar, Zenao, ...)
-- 🧪 Areas of expertise: Desktop Software & Web & Blockchain
 - ⚙️  Main technologies: Go 💙, JS/TS, Python, PHP
 - 💼 President at [AXIVA](https://www.axiva.fr/) (building web2 & desktop app)
 - 🥷 Ninja at [Samourai Tech Crew](https://www.samourai.world/)
