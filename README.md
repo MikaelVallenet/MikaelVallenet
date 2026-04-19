@@ -1,11 +1,4 @@
-# Mikaël Vallenet ❄️
+# Mikaël Vallenet
 
-- 🇫🇷 French Fullstack Software Engineer (Backend expertise++) [@Me](https://mikael.vallenet.me/) 
-- 👯 Open Source Contributor (Gno, Pathwar, Zenao, ...)
-- ⚙️  Main technologies: Go 💙, JS/TS, Python, PHP
-- 💼 President at [AXIVA](https://www.axiva.fr/) (building web2 & desktop app)
-- 🥷 Ninja at [Samourai Tech Crew](https://www.samourai.world/)
-- 💜 Go Software Engineer at [Scaleway](https://www.scaleway.com/fr/)
-- 📊 Ex. President at [@PoC Services](https://www.poc-innovation.fr/poc-services) & Head of AI at [@PoC Innovation](https://github.com/PoCInnovation)
-- 🧑‍🎓 Alumni | Master Computer Science [@Epitech](https://www.epitech.eu/) & [@Monash](https://www.monash.edu/)
-- 📫 How to reach me: mikael.vallenet@axiva.fr
+- French Software Engineer [@Me](https://mikael.vallenet.me/) 
+- Currently working at [Scaleway](https://www.scaleway.com/fr/)
